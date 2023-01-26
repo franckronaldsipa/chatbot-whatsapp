@@ -1,0 +1,12 @@
+ballonnements
+vomissements
+constipation
+diarrhee
+nausees
+fatigue
+fievre
+perte d appetit
+faiblesse musculaire
+perte de poids
+eruption cutanee
+migraine
